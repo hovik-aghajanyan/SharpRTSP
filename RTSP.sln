@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtspClientExample", "RtspCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtspCameraExample", "RtspCameraExample\RtspCameraExample.csproj", "{DA8B426A-92A8-4944-B061-EC642EB0A4DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSP.Standart", "RTSP.Standart\RTSP.Standart.csproj", "{CE83D3DD-73F6-4443-93DC-8C310203A0E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSPMultiplexer.Standart", "RTSPMultiplexer.Standart\RTSPMultiplexer.Standart.csproj", "{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,30 @@ Global
 		{DA8B426A-92A8-4944-B061-EC642EB0A4DA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DA8B426A-92A8-4944-B061-EC642EB0A4DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{DA8B426A-92A8-4944-B061-EC642EB0A4DA}.Release|x86.Build.0 = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE83D3DD-73F6-4443-93DC-8C310203A0E2}.Release|x86.Build.0 = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Debug|x86.Build.0 = Debug|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|x86.ActiveCfg = Release|Any CPU
+		{768DAFA5-08B5-4A92-9E9B-8EA4942CF238}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
